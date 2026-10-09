@@ -15,7 +15,3 @@ How to update something....
 
 ## Report a bug
 Add 1 bug
-Add 2 bug
-Add 3 bug
-Add 4 bug
-Add 5 bug
