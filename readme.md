@@ -14,6 +14,7 @@ How to use something....
 How to update something....
 
 ## Report a bug
+<<<<<<< HEAD
 Add 1 bug
 Add 2 bug
 Add 3 bug
@@ -21,3 +22,6 @@ Add 4 bug
 Add 5 bug
 
 
+=======
+Add 1 bug
+>>>>>>> laszlo/tfe-mv-changes
