@@ -15,3 +15,6 @@ How to update something....
 
 ## Report a bug
 Add 1 bug and 2
+
+## GitHub
+Line 1
